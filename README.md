@@ -4,8 +4,8 @@ A leaflet app for drawing a graph on a map. To add a node, click on the map -> "
 
 ## Requirements
 
-JQuery-3.2.1
-Leaflet
+* JQuery-3.2.1
+* Leaflet
 
 Both of these need to be placed in a folder named libs.
 
